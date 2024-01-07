@@ -1,8 +1,8 @@
 # fortran-studying
 
-The archives contain training tasks for the Fortran course.
+The archives contain training tasks and projects for the Fortran course.
 
-Aldorithms_and_programming:
+Algorithms_and_programming:
 1. Calculate the value of the function y(x,w) defined in the domain a<=x<=b, c<=w<=d. y(x,w)=...
 2. Sum all the elements of the matrix in B (:,:) located above the main diagonal.
 3. Calculate the integral X = .8_R_* X * Exp(-(X*X + .5_R_)), h=0.01, using the trapezoid formula                    
